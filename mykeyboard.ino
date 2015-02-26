@@ -469,7 +469,7 @@ void readcommand () {
         Serial.println(stringTmp.toInt());
         iKey = stringTmp.toInt();
 
-        Serial.println("\ Stringlengh: ");
+        Serial.println("\n Stringlengh: ");
         Serial.println(inData.length());
 
         stringTmp = inData.substring(3, inData.length());
