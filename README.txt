@@ -1,7 +1,7 @@
 
 Simple keyboard for Arduino with ATmega32U4 chip. 
 
-Configurable via serial port (USB). 
+Configurable via inbuild serial port (USB). 
 
 e.g. 
 https://www.sparkfun.com/products/12640
