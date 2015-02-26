@@ -3,7 +3,9 @@ Simple keyboard for Arduino with ATmega32U4 chip.
 
 Configurable via serial port (USB). 
 
-
+e.g. 
+https://www.sparkfun.com/products/12640
+http://arduino.cc/en/Main/ArduinoBoardLeonardo
 
 
       Pro Micro   AtMega32U4
@@ -21,6 +23,7 @@ key4    6             15    LED3
 key5    7             14    LED2
 key6    8             16    LED1
 key7    9             10    LED0
+
 
 
 
