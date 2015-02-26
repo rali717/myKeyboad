@@ -10,7 +10,7 @@ http://arduino.cc/en/Main/ArduinoBoardLeonardo
 
       Pro Micro   AtMega32U4
 
-            USB-CONs
+            USB-CON
         1             RAW
         0             GND   GND
         GND           RST
