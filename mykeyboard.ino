@@ -575,7 +575,7 @@ ASCII Table ~ Character Map
 */
 /*
 
-      Pro Micro   AtMega32U4
+      Pro Micro   ATmega32U4
 
             USB-CONs
         1             RAW
@@ -585,12 +585,12 @@ ASCII Table ~ Character Map
 key0    2             21
 key1    3             20
 key2    4             19
-key3    5             18    keyboardTableSelectPin
+key3    5             18    Pin for select keyboard table
 key4    6             15    LED3
 key5    7             14    LED2
 key6    8             16    LED1
 key7    9             10    LED0
 
 */
-//sawzswza
+//
 
