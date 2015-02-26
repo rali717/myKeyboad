@@ -1,9 +1,9 @@
 
-Simple keyboard for Arduino with ATmega32U4 chip. 
+Simple keyboard for Arduino Boards with a ATmega32U4 chip. 
 
 Configurable via inbuild serial port (USB). 
 
-e.g. 
+e.g. Pro Micro or Leonardo
 https://www.sparkfun.com/products/12640
 http://arduino.cc/en/Main/ArduinoBoardLeonardo
 
