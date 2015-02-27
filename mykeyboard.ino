@@ -224,8 +224,6 @@ void readcommand () {
       if (inData == "help" | inData == "h") {
 
         Serial.println("\n s0 s1 s2 s3");
-        Serial.println(" set+ or +");
-        Serial.println(" set- or -");
         Serial.println(" list or l");
         Serial.println(" k[keynumber] [keycode]       e.g. k0 65");
         Serial.println(" write or w");
@@ -233,26 +231,7 @@ void readcommand () {
         Serial.println(" factory");
         Serial.println(" help  or h\n");
       }
-      //---------------------------------------------------------
-      if (inData == "set+" | inData == "+") {
-        keyboardTable++;
-        if (keyboardTable > 3) {
-          keyboardTable = 0;
-        }
-        Serial.print("\n Selected keyboardTable: ");
-        Serial.println(keyboardTable, DEC);
-        Serial.println("");
-      }
-      //---------------------------------------------------------
-      if (inData == "set-" | inData == "-") {
-        if (keyboardTable == 0) {
-          keyboardTable = 4;
-        }
-        keyboardTable--;
-        Serial.print("\n Selected keyboardTable: ");
-        Serial.println(keyboardTable, DEC);
-        Serial.println("");
-      }
+
       //---------------------------------------------------------
       if (inData == "list" | inData == "l") {
 
