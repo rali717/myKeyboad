@@ -1,7 +1,7 @@
 
 Simple keyboard for Arduino Boards with ATmega32U4 chips. 
 
-Configurable via inbuild serial port (USB). 
+Configurable with inbuild serial port (USB). 
 
 4 Keysets a 8 keys available.
 
