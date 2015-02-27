@@ -1,5 +1,5 @@
 
-Simple keyboard for Arduino Boards with a ATmega32U4 chip. 
+Simple keyboard for Arduino Boards with ATmega32U4 chips. 
 
 Configurable via inbuild serial port (USB). 
 
