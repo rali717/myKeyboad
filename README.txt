@@ -31,8 +31,6 @@ key7    9             10    LED0
 Available commands:
 
  s0 s1 s2 s3
- set+ or +
- set- or -
  list or l
  k[keynumber] [keycode]       e.g. k0 65
  write or w
