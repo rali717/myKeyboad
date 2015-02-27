@@ -28,7 +28,7 @@ key7    9             10    LED0
 
 
 
-Commands via serial port:
+Available commands:
 
  s0 s1 s2 s3
  set+ or +
