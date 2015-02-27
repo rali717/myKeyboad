@@ -3,6 +3,8 @@ Simple keyboard for Arduino Boards with a ATmega32U4 chip.
 
 Configurable via inbuild serial port (USB). 
 
+4 Keysets a 8 keys available.
+
 e.g. Pro Micro or Leonardo
 https://www.sparkfun.com/products/12640
 http://arduino.cc/en/Main/ArduinoBoardLeonardo
@@ -24,6 +26,20 @@ key5    7             14    LED2
 key6    8             16    LED1
 key7    9             10    LED0
 
+
+
+Commands via serial port:
+
+ s0 s1 s2 s3
+ set+ or +
+ set- or -
+ list or l
+ k[keynumber] [keycode]       e.g. k0 65
+ write or w
+ raw   or r
+ factory
+ help  or h
+ 
 
 
 
