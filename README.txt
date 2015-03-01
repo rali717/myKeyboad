@@ -40,8 +40,6 @@ Available commands:
  
 
 
-
-
 ...
                      Key  0 - 7
                      Keycode/Character 
@@ -59,7 +57,7 @@ Set 3:   194/ï¿½    195/ï¿½    196/ï¿½    197/ï¿½    198/ï¿½    199/ï¿½    200/ï
  Selected keyboard table: 0
 ...
 
-
-
+k0 65
+...
 
 2015-02-26  fist release
