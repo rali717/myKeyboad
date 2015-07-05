@@ -20,7 +20,7 @@ http://arduino.cc/en/Main/ArduinoBoardLeonardo
 key0    2             21
 key1    3             20
 key2    4             19
-key3    5             18    keyboardTableSelectPin
+key3    5             18    keyboardTableSelectPin (push-button)
 key4    6             15    LED3
 key5    7             14    LED2
 key6    8             16    LED1
